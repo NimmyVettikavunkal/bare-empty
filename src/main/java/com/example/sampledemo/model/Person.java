@@ -1,5 +1,5 @@
 package com.example.sampledemo.model;
-//add annotation
+
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
