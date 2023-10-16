@@ -7,7 +7,7 @@ public class Person {
 
     private int age;
 
-    public Person() {
+    public Person() { //no argument constructor
     }
 
     public Long getPersonId() {
